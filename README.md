@@ -31,3 +31,11 @@ Um app em **Streamlit** para screener de Ações, Cripto, Forex e Índices com:
 pip install streamlit pandas numpy plotly yfinance requests
 streamlit run screener.py
 
+## Outras formas de executar
+
+```bash
+python3 -m venv screener
+source screener/bin/activate
+pip3 install requirements.txt
+streamlit run screener.py
+
