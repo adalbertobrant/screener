@@ -89,7 +89,7 @@ B3_TICKERS = [
     "TGMA3.SA", "PSSA3.SA", "VSPT3.SA",
     # Tecnologia / Software
     "TOTS3.SA", "LWSA3.SA", "DXCO3.SA", "CASH3.SA", "BRTT3.SA",
-    "MOSI3.SA", "POSI3.SA", "TOTVS3.SA",
+    "MOSI3.SA", "POSI3.SA",
     # Papel e Celulose
     "SUZB3.SA", "KLBN11.SA", "RANI3.SA",
     # Petroquímica / Química
