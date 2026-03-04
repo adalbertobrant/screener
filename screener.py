@@ -54,7 +54,7 @@ B3_TICKERS = [
     # Financeiro / Bancos
     "ITUB4.SA", "BBDC4.SA", "BBAS3.SA", "ITSA4.SA", "SANB11.SA",
     "BRSR6.SA", "BPAC11.SA", "BPAN4.SA", "BMGB4.SA", "ABCB4.SA",
-    "PINE4.SA", "RBRB3.SA", "INBR32.SA",
+    "PINE4.SA", "BSLI3.SA", "INBR32.SA",
     # Petróleo e Gás
     "PETR4.SA", "PETR3.SA",  "RECV3.SA", "PRIO3.SA",
     "UGPA3.SA", "VBBR3.SA", "CSAN3.SA",
