@@ -73,7 +73,7 @@ B3_TICKERS = [
      "ALPA4.SA", "TFCO4.SA", "AMAR3.SA", "CEAB3.SA",
     "MOVI3.SA", "GRND3.SA", "GUPY3.SA",
     # Bebidas / Alimentos / Agro
-    "ABEV3.SA", "JBSS3.SA", "MRFG3.SA", "BEEF3.SA", "BRFS3.SA",
+    "ABEV3.SA", "JBSS3.SA", "MRFG3.SA", "BEEF3.SA", 
     "SMTO3.SA", "SLCE3.SA", "AGRO3.SA", "CAML3.SA", "TTEN3.SA",
     "SOJA3.SA", "PCAR3.SA", "CRFB3.SA",
     # Saúde
