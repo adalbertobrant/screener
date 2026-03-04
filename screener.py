@@ -81,7 +81,7 @@ B3_TICKERS = [
     "FLRY3.SA", "QUAL3.SA", "AALR3.SA", "PNVL3.SA", "BLAU3.SA",
     "HYPE3.SA", "PGMN3.SA", "ONCO3.SA", "SIMH3.SA",
     # Construção / Imobiliário
-    "CYRELA.SA", "MRVE3.SA", "EVEN3.SA", "EZTC3.SA", "TRIS3.SA",
+     "MRVE3.SA", "EVEN3.SA", "EZTC3.SA", "TRIS3.SA",
     "CYRE3.SA", "TEND3.SA", "DIRR3.SA", "PLPL3.SA", "JHSF3.SA",
     "LAVV3.SA", "HBOR3.SA",
     # Logística / Transporte
