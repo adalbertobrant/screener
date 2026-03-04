@@ -101,7 +101,7 @@ B3_TICKERS = [
     "WEGE3.SA", "ROMI3.SA", "TUPY3.SA", "FRAS3.SA", "KEPL3.SA",
     "EMBR3.SA", "EMBJ3.SA",
     # Shopping / Real Estate
-    "MULT3.SA", "IGTI11.SA", "BRML3.SA", "ALSO3.SA", "ALLOS3.SA",
+    "MULT3.SA", "IGTI11.SA", "BRML3.SA", "ALSO3.SA", "ALOS3.SA",
     # Seguros
     "BBSE3.SA", "PSSA3.SA", "IRBR3.SA",
     # Educação
