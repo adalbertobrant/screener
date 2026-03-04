@@ -65,7 +65,7 @@ B3_TICKERS = [
     "ELET3.SA", "ELET6.SA", "CMIG4.SA", "CPFE3.SA", "ENGI11.SA",
     "ENBR3.SA", "EQTL3.SA", "TIET11.SA", "AURE3.SA", "EGIE3.SA",
     "ENEV3.SA", "CESP6.SA", "CPLE6.SA", "LIGT3.SA", "NEOE3.SA",
-     "TRPL4.SA", "ISAE4.SA", "ARNA3.SA",
+     "TRPL4.SA", "ISAE4.SA",
     # Telecomunicações
     "VIVT3.SA", "TIMS3.SA", "OIBR3.SA",
     # Varejo / Consumo
