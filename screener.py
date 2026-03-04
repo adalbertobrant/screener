@@ -64,8 +64,8 @@ B3_TICKERS = [
     # Energia Elétrica
     "AXIA3.SA", "AXIA6.SA", "CMIG4.SA", "CPFE3.SA", "ENGI11.SA",
     "ENBR3.SA", "EQTL3.SA",  "AURE3.SA", "EGIE3.SA",
-    "ENEV3.SA", "CPLE3.SA", "LIGT3.SA", "NEOE3.SA",ISAE4
-     "ISAE4.SA", "ISAE4.SA",
+    "ENEV3.SA", "CPLE3.SA", "LIGT3.SA", "NEOE3.SA",
+     "ISAE4.SA", 
     # Telecomunicações
     "VIVT3.SA", "TIMS3.SA", "OIBR3.SA",
     # Varejo / Consumo
