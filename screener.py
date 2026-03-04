@@ -115,7 +115,7 @@ B3_TICKERS = [
     "BTLG11.SA", "GGRC11.SA", "CXCE11B.SA", "VISC11.SA", "XPCA11.SA",
     "PVBI11.SA", "HSML11.SA", "HGRE11.SA", "RBRF11.SA", "HFOF11.SA",
     # Grupo Matheus / Outros
-    "GMAT3.SA", "VVEO3.SA", "INTB3.SA", "LUPA3.SA", "BLKB3.SA",
+    "GMAT3.SA", "VVEO3.SA", "INTB3.SA", "LUPA3.SA",
 ]
 
 # Remove duplicatas mantendo ordem
