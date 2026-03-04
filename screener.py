@@ -62,7 +62,7 @@ B3_TICKERS = [
     "VALE3.SA", "CSNA3.SA", "USIM5.SA", "GGBR4.SA", "GOAU4.SA",
     "FESA4.SA", "CMIN3.SA", "CBAV3.SA",
     # Energia Elétrica
-    "ELET3.SA", "ELET6.SA", "CMIG4.SA", "CPFE3.SA", "ENGI11.SA",
+    "AXIA3.SA", "AXIA6.SA", "CMIG4.SA", "CPFE3.SA", "ENGI11.SA",
     "ENBR3.SA", "EQTL3.SA",  "AURE3.SA", "EGIE3.SA",
     "ENEV3.SA", "CPLE3.SA", "LIGT3.SA", "NEOE3.SA",
      "TRPL4.SA", "ISAE4.SA",
