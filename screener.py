@@ -85,7 +85,7 @@ B3_TICKERS = [
     "CYRE3.SA", "TEND3.SA", "DIRR3.SA", "PLPL3.SA", "JHSF3.SA",
     "LAVV3.SA", "HBOR3.SA",
     # Logística / Transporte
-    "RAIL3.SA", "CCRO3.SA", "ECOR3.SA", "AZUL4.SA", "GOLL4.SA",
+    "RAIL3.SA", "CCRO3.SA", "ECOR3.SA", "AZUL53.SA", "GOLL4.SA",
     "TGMA3.SA", "PSSA3.SA", "VSPT3.SA",
     # Tecnologia / Software
     "TOTS3.SA", "LWSA3.SA", "DXCO3.SA", "CASH3.SA", "BRTT3.SA",
