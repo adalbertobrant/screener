@@ -112,7 +112,7 @@ B3_TICKERS = [
     "BRAP4.SA", "LEVE3.SA",
     # FIIs mais líquidos (fundos imobiliários)
     "MXRF11.SA", "HGLG11.SA", "XPML11.SA", "KNRI11.SA", "BRCO11.SA",
-    "BTLG11.SA", "GGRC11.SA", "CXCE11B.SA", "VISC11.SA", "XPCA11.SA",
+    "BTLG11.SA", "GGRC11.SA", "CXCE11.SA", "VISC11.SA", "XPCA11.SA",
     "PVBI11.SA", "HSML11.SA", "HGRE11.SA", "RBRF11.SA", "HFOF11.SA",
     # Grupo Matheus / Outros
     "GMAT3.SA", "VVEO3.SA", "INTB3.SA", "LUPA3.SA",
