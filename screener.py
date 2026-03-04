@@ -54,30 +54,30 @@ B3_TICKERS = [
     # Financeiro / Bancos
     "ITUB4.SA", "BBDC4.SA", "BBAS3.SA", "ITSA4.SA", "SANB11.SA",
     "BRSR6.SA", "BPAC11.SA", "BPAN4.SA", "BMGB4.SA", "ABCB4.SA",
-    "PINE4.SA", "RBRB3.SA", "INTER3.SA", "INBR32.SA",
+    "PINE4.SA", "RBRB3.SA", "INBR32.SA",
     # Petróleo e Gás
-    "PETR4.SA", "PETR3.SA", "RRRP3.SA", "RECV3.SA", "PRIO3.SA",
-    "UGPA3.SA", "VBBR3.SA", "CSAN3.SA", "ENAT3.SA",
+    "PETR4.SA", "PETR3.SA",  "RECV3.SA", "PRIO3.SA",
+    "UGPA3.SA", "VBBR3.SA", "CSAN3.SA",
     # Mineração / Siderurgia / Metais
     "VALE3.SA", "CSNA3.SA", "USIM5.SA", "GGBR4.SA", "GOAU4.SA",
     "FESA4.SA", "CMIN3.SA", "CBAV3.SA",
     # Energia Elétrica
     "ELET3.SA", "ELET6.SA", "CMIG4.SA", "CPFE3.SA", "ENGI11.SA",
-    "ENBR3.SA", "EQTL3.SA", "TIET11.SA", "AURE3.SA", "EGIE3.SA",
-    "ENEV3.SA", "CESP6.SA", "CPLE6.SA", "LIGT3.SA", "NEOE3.SA",
+    "ENBR3.SA", "EQTL3.SA",  "AURE3.SA", "EGIE3.SA",
+    "ENEV3.SA", "CPLE6.SA", "LIGT3.SA", "NEOE3.SA",
      "TRPL4.SA", "ISAE4.SA",
     # Telecomunicações
     "VIVT3.SA", "TIMS3.SA", "OIBR3.SA",
     # Varejo / Consumo
-    "MGLU3.SA", "LREN3.SA", "AMER3.SA", "VIIA3.SA", "PETZ3.SA",
-    "SOMA3.SA", "ALPA4.SA", "TFCO4.SA", "AMAR3.SA", "CEAB3.SA",
-    "MOVI3.SA", "GRND3.SA", "HGTX3.SA", "GUPY3.SA",
+    "MGLU3.SA", "LREN3.SA", "AMER3.SA", "BHIA3.SA", "PETZ3.SA",
+     "ALPA4.SA", "TFCO4.SA", "AMAR3.SA", "CEAB3.SA",
+    "MOVI3.SA", "GRND3.SA", "GUPY3.SA",
     # Bebidas / Alimentos / Agro
     "ABEV3.SA", "JBSS3.SA", "MRFG3.SA", "BEEF3.SA", "BRFS3.SA",
     "SMTO3.SA", "SLCE3.SA", "AGRO3.SA", "CAML3.SA", "TTEN3.SA",
     "SOJA3.SA", "PCAR3.SA", "CRFB3.SA",
     # Saúde
-    "RDOR3.SA", "HAPV3.SA", "GNDI3.SA", "DASA3.SA", "RADL3.SA",
+    "RDOR3.SA", "HAPV3.SA", "DASA3.SA", "RADL3.SA",
     "FLRY3.SA", "QUAL3.SA", "AALR3.SA", "PNVL3.SA", "BLAU3.SA",
     "HYPE3.SA", "PGMN3.SA", "ONCO3.SA", "SIMH3.SA",
     # Construção / Imobiliário
@@ -89,7 +89,7 @@ B3_TICKERS = [
     "TGMA3.SA", "PSSA3.SA", "VSPT3.SA",
     # Tecnologia / Software
     "TOTS3.SA", "LWSA3.SA", "DXCO3.SA", "CASH3.SA", "BRTT3.SA",
-    "MOSI3.SA", "POSI3.SA",
+     "POSI3.SA",
     # Papel e Celulose
     "SUZB3.SA", "KLBN11.SA", "RANI3.SA",
     # Petroquímica / Química
@@ -101,13 +101,13 @@ B3_TICKERS = [
     "WEGE3.SA", "ROMI3.SA", "TUPY3.SA", "FRAS3.SA", "KEPL3.SA",
     "EMBR3.SA", "EMBJ3.SA",
     # Shopping / Real Estate
-    "MULT3.SA", "IGTI11.SA", "BRML3.SA", "ALOS3.SA",
+    "MULT3.SA", "IGTI11.SA", "ALOS3.SA",
     # Seguros
     "BBSE3.SA", "PSSA3.SA", "IRBR3.SA",
     # Educação
     "YDUQ3.SA", "COGN3.SA", "ANIM3.SA", "SEER3.SA",
     # Saneamento
-    "SBSP3.SA", "CSMG3.SA", "SAPR11.SA", "SULA11.SA",
+    "SBSP3.SA", "CSMG3.SA", "SAPR11.SA", 
     # Mineração Diversificada
     "BRAP4.SA", "LEVE3.SA",
     # FIIs mais líquidos (fundos imobiliários)
